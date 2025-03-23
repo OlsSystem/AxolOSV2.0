@@ -1,0 +1,31 @@
+{
+  "name": "axolos",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/builders": "^1.10.0",
+    "@discordjs/rest": "^2.4.2",
+    "axios": "^1.7.9",
+    "bad-words": "^4.0.0",
+    "badwords-list": "^2.0.1-4",
+    "boxen": "^8.0.1",
+    "canvacord": "^6.0.2",
+    "chalk": "^4.1.2",
+    "colors": "^1.4.0",
+    "discord-api-types": "^0.37.119",
+    "discord-gamecord": "^4.4.2",
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7",
+    "genius-lyrics": "^4.4.7",
+    "langdetect": "^0.2.1",
+    "mongoose": "^8.9.7",
+    "node-cron": "^3.0.3",
+    "pretty-ms": "^9.2.0"
+  }
+}

@@ -1,0 +1,5 @@
+node_modules
+.idea
+SQLITE DATA.csv
+SQLITE DATA.xlsx
+.env
